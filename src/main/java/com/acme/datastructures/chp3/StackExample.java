@@ -1,4 +1,4 @@
-package com.acme.algorithms.chp3;
+package com.acme.datastructures.chp3;
 
 import java.util.Stack;
 import java.util.function.Consumer;

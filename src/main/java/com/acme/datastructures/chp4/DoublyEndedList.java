@@ -1,4 +1,4 @@
-package com.acme.algorithms.chp4;
+package com.acme.datastructures.chp4;
 
 /**
  * A double ended linked list has next features:

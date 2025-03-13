@@ -1,4 +1,4 @@
-package com.acme.algorithms.chp4;
+package com.acme.datastructures.chp4;
 
 /**
  * This class is a representation of the each item in linked list. Each node is like a container 

@@ -1,6 +1,6 @@
-package com.acme.algorithms.chp4.demos;
+package com.acme.datastructures.chp4.demos;
 
-import com.acme.algorithms.chp4.LinkedList;
+import com.acme.datastructures.chp4.LinkedList;
 
 /**
  * @author josel.rojas
